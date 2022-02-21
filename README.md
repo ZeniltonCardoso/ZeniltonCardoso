@@ -3,7 +3,7 @@
 # My works and studies
 🔭 I am currently working at Havan with Android Development.
 
-🌱I'm currently learning about solid principles, test jetpack compose.
+🌱 I'm currently learning about solid principles, test jetpack compose.
 
 # Github Stats
 <div align="center">
